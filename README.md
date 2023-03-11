@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh5906" alt="santosh5906" /></a> </p>
 
-- 🔭 I’m currently working on [Covid-19 cases analysis using worldmap and future prediction using ARIMA model](https://github.com/santosh5906/Covid-19-prediction-using-ARIMA)
+- 🔭 I’m currently working on [AtliQ Costumer sales insight](https://github.com/santosh5906/AtliQ_consumer_sales)
 
 - 🌱 I’m currently learning **Power BI and SQL**
 
